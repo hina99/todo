@@ -10,7 +10,7 @@ body {
   color: #333333;
 }
 .btn-green {
-  border-color: var(--mainGreen);
+  border-color: var(--mainBlack);
   background: transparent;
   color: var(--mainGreen);
 }
